@@ -59,6 +59,8 @@
     display: none;
 }
 
+/* ============================================= */
+
 body {
     background-color: cornsilk;
 }
@@ -68,19 +70,7 @@ body {
     height: 600px;
 }
 
-#homeParagraph {
-    position: relative;
-    top: 20px;
-    left: 20px;
-    right: 20px;
-    /*padding: 20px;*/
-    color: brown;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-style: italic;
-    font-size: 25px;
-    text-align: center justify;
-}
-
+/* ==================== About Us ==================== */
 #myImage {
     width: 700px; 
     height: 500px;
@@ -99,6 +89,7 @@ body {
     text-align: center justify;
 }
 
+/* ==================== Our Project ==================== */
 div img {
     float: center;
     width: 315px; 

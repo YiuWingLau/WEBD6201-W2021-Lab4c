@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Demo Site for ICE 10",
   "main": "server.js",
-  "repository": "https://github.com/YiuWingLau/WEBD6201-W2021-Lab4.git",
-  "author": "Yiu Wing Lau <yiuwing.lau@dcmail.ca>",
+  "repository": "https://github.com/durhamprogrammer/WEBD6201-W2021-ICE10b.git",
+  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
   "license": "MIT",
   "engines": {
     "node": "^15.0.0",
